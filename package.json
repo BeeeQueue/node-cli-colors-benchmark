@@ -38,7 +38,7 @@
     "@types/node": "20.11.25",
     "dotenv": "16.4.5",
     "lint-staged": "15.2.2",
-    "oxlint": "0.2.13",
+    "oxlint": "0.2.14",
     "prettier": "3.2.5",
     "simple-git-hooks": "2.10.0",
     "typescript": "5.4.2",
